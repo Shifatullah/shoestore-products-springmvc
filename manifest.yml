@@ -1,0 +1,7 @@
+---
+applications:
+- name: shoestore-products-springmvc  
+  instances: 1
+  memory: 1GB
+  buildpack: java_buildpack
+  path: target\shoestore-products-springmvc-0.0.1-SNAPSHOT-spring-boot.jar
