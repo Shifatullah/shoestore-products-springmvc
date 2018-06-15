@@ -18,6 +18,7 @@ public class ProductsController {
 		products.add("Lenovo");
 		products.add("Ice Cream");
 		products.add("Chocolate");
+		products.add("Biryani");
 		return products;
 	}
 	
